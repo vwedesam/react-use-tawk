@@ -1,0 +1,20 @@
+{
+  "name": "react-use-tawk",
+  "version": "1.0.0",
+  "description": "react integration for tawk.to",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vwedesam/react-use-tawk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vwedesam/react-use-tawk/issues"
+  },
+  "homepage": "https://github.com/vwedesam/react-use-tawk#readme"
+}
